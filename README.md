@@ -88,7 +88,7 @@ The results indicate that the model performs competitively, with room for improv
 Below are the training and validation loss curves:
 
 ![Training Loss](assets/train_loss_02-19_18-22.jpg)
-![Validation Loss](assets/val_loss_02-19_18-22.jpg)
+![Validation Loss](assets/val_loss_02-19_18-21.jpg)
 
 ### Future Improvements
 - **Hyperparameters**: Increase the hyperparameters to be the same as the ones proposed in the OpenAI model
